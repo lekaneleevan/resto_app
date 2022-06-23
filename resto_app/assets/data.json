@@ -1,0 +1,96 @@
+[
+  {
+  "placeImage" : "images/mbomgo tchobi.jpg",
+  "placeName" : "Le Mbomgo Tchobi",
+  "placeItems" : ["02 plantains-murs", "Poissons", "Viandes", "jus de djara / jus de d'Oseille"],
+  "Prix" : 3000
+  },
+  {
+  "placeImage" : "images/ndolet.jpg",
+  "placeName" : "Le Ndolet",
+  "placeItems" : ["plantains-murs", "Miondo", "plantains fris", "jus de djara / jus de d'Oseille", "viande/poisson"],
+  "Prix" : 3500
+  },
+  {
+  "placeImage" : "images/okok sucré.jpg",
+  "placeName" : "L'Okok sucré",
+  "placeItems" : ["06 Maniocs", "Viandes", "peau", "jus de djara / jus d'oseille"],
+  "Prix" : 3000
+  },
+  {
+  "placeImage" : "images/pilé pomme.jpg",
+  "placeName" : "pilé de pommes de terres",
+  "placeItems" : ["01 boule", "jus de djara / jus de d'Oseille"],
+  "Prix" : 1000
+  },
+  {
+  "placeImage" : "images/condrès boeuf.jpg",
+  "placeName" : "Condrès ",
+  "placeItems" : ["mini", "moyen", "grand", "boeuf/porc", "jus de djara / jus de d'Oseille"],
+  "Prix" : 1500
+  },
+  {
+  "placeImage" : "images/havre.jpg",
+  "placeName" : "Havre ",
+  "placeItems" : ["01 boule de riz", "01 braise","jus de djara / jus de d'Oseille"],
+  "Prix" : 2000
+  },
+  {
+  "placeImage" : "images/koki.jpg",
+  "placeName" : "Koki ",
+  "placeItems" : ["03 bananes", "02 boules","jus de djara / jus de d'Oseille"],
+  "Prix" : 1500
+  },
+  {
+  "placeImage" : "images/eru.jpg",
+  "placeName" : "Eru tapioca ",
+  "placeItems" : ["02 boules", "02 peaux", "03 viandes", "jus de djara / jus de d'Oseille"],
+  "Prix" : 1500
+  },
+  {
+    "placeImage" : "images/hamburger.jpg",
+    "placeName" : "Le Burger",
+    "placeItems" : ["Mini Burger", "Big Burger", "cheese burger", "jus de djara / jus de d'Oseille"],
+    "Prix" : 1500
+  },
+  {
+  "placeImage" : "images/eru fufu.jpg",
+  "placeName" : "Eru fufu ",
+  "placeItems" : ["02 boules", "02 peaux", "03 viandes", "jus de djara / jus de d'Oseille"],
+  "Prix" : 1500
+  },
+  {
+  "placeImage" : "images/contchap.jpg",
+  "placeName" : "Contchap",
+  "placeItems" : ["02 peaux", "01 viande", "jus de djara/ jus de d'Oseille"],
+  "Prix" : 2000
+  },
+  {
+  "placeImage" : "images/gombo.jpg",
+  "placeName" : "Gombo",
+  "placeItems" : [ "02 viande", "jus de djara / jus de d'Oseille"],
+  "Prix" : 2000
+  },
+  {
+  "placeImage" : "images/taro.jpg",
+  "placeName" : "Taro",
+  "placeItems" : [ "02 viande","01 peau","01 serviettes", "jus de djara / jus de d'Oseille"],
+  "Prix" : 1500
+  },
+  {
+  "placeImage" : "images/un quart poulet & une boule de riz sénégalais.jpg",
+  "placeName" : "1/4 poulet & 01 boule de riz sénégalais",
+  "placeItems" : [ "1/4 poulet","1/2 poulet","02 boules", "jus de djara / jus de d'Oseille"],
+  "Prix" : 2500
+  },
+  {
+  "placeImage" : "images/okok salé.jpg",
+  "placeName" : "Okok salé",
+  "placeItems" : [ "06 Maniocs", "Viandes", "peau", "jus de djara / jus de d'Oseille"],
+  "Prix" : 2500
+  }
+]
+
+
+
+
